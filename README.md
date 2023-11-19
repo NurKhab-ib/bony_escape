@@ -1,8 +1,10 @@
 
 # Bony Escape Documentation
 
-## ru
-### 🦴 Bony Escape **_("Костлявый побег")_** - игра, созданная при помощи **_JavaScript_ и _HTML Canvas_**. 
+![](https://img.shields.io/badge/language-russian_&_english-005555)
+
+## `RU`
+### 🦴 Bony Escape **_('Костлявый побег')_** - игра, созданная при помощи **_JavaScript_ и _HTML Canvas_**. 
 
 🎯 Цель игры проста - за определённое время заработать как можно больше костей, отпугивая врагов, которые движутся к дому, охраняемого собакой. При прикосновении врагов дом будет постепенно рушиться (это отражается на сердцах). 
 
@@ -10,23 +12,17 @@
 
 ### ⌨️ Управление:
 
-`Ф` | `Стрелка влево` - движение влево
-
-`В` | `Стрелка вправо` - движение вправо
-
-`Ц` | `Стрелка вверх` - прыжок
-
-`Ы` | `Стрелка вниз` - "ныряние" (быстрое приземление)
-
-`Пробел` - атака
-
-`Escape` (`Esc`) - пауза
-
-`Й` - дебаг (границы спрайтов)
+- `Ф` | `Стрелка влево` - движение влево
+- `В` | `Стрелка вправо` - движение вправо
+- `Ц` | `Стрелка вверх` - прыжок
+- `Ы` | `Стрелка вниз` - "ныряние" (быстрое приземление)
+- `Пробел` - атака
+- `Escape` (`Esc`) - пауза
+- `Й` - дебаг (границы спрайтов)
 
 > P.S. Игра ещё не работает на мобильных устройствах.
 
-## en
+## `EN`
 ### 🦴 Bony Escape is a game developed using **_JavaScript_ and _HTML Canvas_**. 
 
 🎯 The goal is pretty simple - for a certain time player has to earn as many bones as possible, scaring off enemies who are moving to the house guarded by a dog. At the touch of enemies, the house will gradually collapse (it's reflected in the hearts). 
@@ -35,19 +31,13 @@
 
 ### ⌨️ The management:
 
-`A` | `Arrow Left` - left move
-
-`D` | `Arrow Right` - right move
-
-`W` | `Arrow Up` - jumping
-
-`S` | `Arrow Down` - "diving" (fast landing)
-
-`Space` - attack
-
-`Escape` (`Esc`) - pause
-
-`Q` - debug (hitboxes on)
+- `A` | `Arrow Left` - left move
+- `D` | `Arrow Right` - right move
+- `W` | `Arrow Up` - jumping
+- `S` | `Arrow Down` - "diving" (fast landing)
+- `Space` - attack
+- `Escape` (`Esc`) - pause
+- `Q` - debug (hitboxes on)
 
 > P.S. Game is not working on mobile devices yet.
 
