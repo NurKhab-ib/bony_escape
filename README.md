@@ -3,6 +3,8 @@
 
 ![](https://img.shields.io/badge/language-russian_&_english-005555)
 
+## 🔗 [GitHub Pages](https://nurkhab-ib.github.io/bony_escape/)
+
 ## `RU`
 ### 🦴 Bony Escape **_('Костлявый побег')_** - игра, созданная при помощи **_JavaScript_ и _HTML Canvas_**. 
 
