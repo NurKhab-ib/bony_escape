@@ -1,7 +1,7 @@
 
 # Bony Escape Documentation
 
-![](https://img.shields.io/badge/language-russian_&_english-005555)
+![](https://img.shields.io/badge/language-Russian_&_English-005555)
 
 ## 🔗 [GitHub Pages](https://nurkhab-ib.github.io/bony_escape/)
 
